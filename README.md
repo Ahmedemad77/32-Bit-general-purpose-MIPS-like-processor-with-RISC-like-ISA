@@ -5,3 +5,4 @@ synthesized and implemented on Xilinx ISE program. The processor is then tested 
 simulation in Xilinx ISE program it consists of 3 main parts
 - VHDL
 - assembler
+- PCB

@@ -1,0 +1,14 @@
+or r0 r1 r2 0;
+nor r3 r4 r5 0;
+add r6 r7 r8 0;
+sub r9 r10 r11 0;
+cmp r12 r13 r14 0;
+sll r15 r16 0 15;
+inc r17 0 0 0;
+push 0 r18;
+mov r19 r20;
+jr 0 r21;
+in r22 r23;
+addi r24 r25 15;
+andi r26 r27 2;
+cmpi r28 r29 22;
